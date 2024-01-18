@@ -1,0 +1,20 @@
+  {
+    "id": 0,
+    "title": "Qual Vegetal?",
+    "questions": [
+      {
+        "id": 0,
+        "title": "Qual Vegetal ?",
+        "options": [
+          {"id": 0, "name":"Batata", "alias":"A"},
+          {"id": 0, "name":"Cenoura", "alias":"B"},
+          {"id": 0, "name":"Alecrim", "alias":"C"}
+        ]
+      }
+    ],
+    "results": [
+      {"id": 0, "alias": "A", "text": "Batata"},
+      {"id": 0, "alias": "B", "text": "Cenoura"},
+      {"id": 0, "alias": "C", "text": "Alecrim"}
+    ]
+  }
